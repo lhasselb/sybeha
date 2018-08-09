@@ -19,8 +19,7 @@
             "css",
             "images",
             "javascript",
-            "webfonts",
-			"images/clean"
+            "webfonts"
         ]
 	}
 }

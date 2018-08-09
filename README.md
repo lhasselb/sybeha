@@ -1,7 +1,6 @@
-# Important notice: Don't use this Theme (not meant for public use)
+## HowTo install
 
-## HowTo install sybeha theme
-
-`composer require author/theme_name [version]' 
-
+```
+composer require author/theme_name [version]' 
+```
  

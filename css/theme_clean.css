@@ -1,0 +1,151 @@
+/*  CLEAN THEME STYLES */
+body{
+	background: url(/themes/sybeha/images/clean/bg.png) repeat;
+	color: #767676;
+}
+
+.rightColumn p a {color: #767676;}
+
+.rightColumn p a:hover,.rightColumn p a:active,.rightColumn p a:focus{
+	color: #000;
+}
+
+
+.me {
+padding:8px;
+border:solid;
+border-color: #dddddd #aaaaaa #aaaaaa #dddddd;
+border-width: 1px 2px 2px 1px;
+background-color:white;
+}
+
+.leftColumn{
+	background: url(/themes/sybeha/images/clean/sep_vert.png) repeat-y right;
+}
+.tab-container{
+	text-shadow: 1px 1px 0 #ffffff;
+	background: url(/themes/sybeha/images/clean/card_mid.png) repeat-y 2px 0;
+}
+.tab-container:before{
+	background: url(/themes/sybeha/images/clean/card_top.png) no-repeat 0 0;
+}
+.tab-container:after{
+	background: url(/themes/sybeha/images/clean/card_bot.png) no-repeat 2px 0;
+}
+.headshot h1{
+	color: #3b3b3b;
+	display:none;
+}	
+.headshot h4{
+	color: #219cd2;
+}
+.headshot img{
+	/*border: 1px solid #e4e4e1;
+	background-color: #fff;*/
+}
+h2{
+	color: #4b4b4b;
+}
+.copyright{
+	color: #acacac;
+	text-shadow: 1px 1px 0 #ffffff;
+}
+.details li{
+	color: #3f3e3e;
+}	
+.details li div{
+	color: #8b8b8b;
+}
+.star1:after, .star2:after, .star3:after, .star4:after, .star5:after{ 
+	background-image: url(/themes/sybeha/images/clean/stars.png);
+}
+.socialBtns li a{
+	background: url(/themes/sybeha/images/clean/social_btns.png) no-repeat;
+}
+.download, .tab a {
+	-moz-box-shadow:inset 0px 1px 0px 0px #d3d7d9;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #d3d7d9;
+	box-shadow:inset 0px 1px 0px 0px #d3d7d9;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #b5bdc0), color-stop(1, #869094) );
+	background:-moz-linear-gradient( center top, #b5bdc0 5%, #869094 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b5bdc0', endColorstr='#869094');
+	background-color:#b5bdc0;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #858e92;
+	display:inline-block;
+	color:#ffffff;
+	padding: 0px 12px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #696f72;
+	cursor: pointer;
+}
+.download:hover, .tab a:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #869094), color-stop(1, #b5bdc0) );
+	background:-moz-linear-gradient( center top, #869094 5%, #b5bdc0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#869094', endColorstr='#b5bdc0');
+	background-color:#869094;
+}
+.tab.active a, #contactform .btn, #Form_ContactForm .btn{
+	-moz-box-shadow:inset 0px 1px 0px 0px #81bad5;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #81bad5;
+	box-shadow:inset 0px 1px 0px 0px #81bad5;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #2c8cb9), color-stop(1, #0c578c) );
+	background:-moz-linear-gradient( center top, #2c8cb9 5%, #0c578c 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2c8cb9', endColorstr='#0c578c');
+	background-color:#2c8cb9;
+	text-shadow:1px 1px 0px #005488;
+	border:1px solid #0c568c;
+}
+#Form_ContactForm .btn, #contactform .btn{
+	color: #fff;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	cursor: pointer;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.tab.active a:hover, #Form_ContactForm .btn:hover, #contactform .btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #0c578c), color-stop(1, #2c8cb9) );
+	background:-moz-linear-gradient( center top, #0c578c 5%, #2c8cb9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0c578c', endColorstr='#2c8cb9');
+	background-color:#0c578c;
+}
+.mosaic-block{
+	background-color: #fff;
+	border: 1px solid #e4e4e1;
+}
+::-webkit-input-placeholder { color: #82a1b6; }
+:-moz-placeholder { color: #82a1b6;  }
+input[type="text"]{
+	color: #82a1b6;
+}
+input[type="email"]{
+	color: #82a1b6;
+}
+textarea{
+	color: #82a1b6;
+}
+.error[generated=true] {
+	color: #dd9292;
+}
+#response .success {
+	color: #219cd2;
+}
+.success:before{
+	color: #b7dced;
+}
+#response .failure {
+	color: #dd9292;
+}
+ol.bjqs-markers li a{
+  background: url(/themes/sybeha/images/clean/nav_dots.png) no-repeat 0 0;
+}
+ol.bjqs-markers li.active-marker a{
+  background: url(/themes/sybeha/images/clean/nav_dots.png) no-repeat -15px 0px;
+}
+.phone:before, .address:before, .postal:before{ 
+	background: url(/themes/sybeha/images/clean/icon_sprite.png) no-repeat;
+}

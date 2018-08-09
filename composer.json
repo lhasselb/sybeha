@@ -20,7 +20,7 @@
             "images",
             "javascript",
             "webfonts",
-			"images"
+			"images/clean"
         ]
 	}
 }

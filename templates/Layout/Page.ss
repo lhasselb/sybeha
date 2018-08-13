@@ -6,6 +6,9 @@
 		<div class="leftColumn">
 		<% if MenuTitle == "Contact"%>
 			<h2>$Title</h2>
+			<% if StatusMessage %>
+			<p>$StatusMessage</p>
+			<% end_if %>
 			$Up.ContactForm 
 		<% else_if MenuTitle == "About"%>
 			<h2>$Title</h2>

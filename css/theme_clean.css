@@ -1,6 +1,6 @@
 /*  CLEAN THEME STYLES */
 body{
-	background: url(/resources/themes/sybeha/images/clean/bg.png) repeat;
+	background: url(/_resources/themes/sybeha/images/clean/bg.png) repeat;
 	color: #767676;
 }
 
@@ -20,17 +20,17 @@ background-color:white;
 }
 
 .leftColumn{
-	background: url(/resources/themes/sybeha/images/clean/sep_vert.png) repeat-y right;
+	background: url(/_resources/themes/sybeha/images/clean/sep_vert.png) repeat-y right;
 }
 .tab-container{
 	text-shadow: 1px 1px 0 #ffffff;
-	background: url(/resources/themes/sybeha/images/clean/card_mid.png) repeat-y 2px 0;
+	background: url(/_resources/themes/sybeha/images/clean/card_mid.png) repeat-y 2px 0;
 }
 .tab-container:before{
-	background: url(/resources/themes/sybeha/images/clean/card_top.png) no-repeat 0 0;
+	background: url(/_resources/themes/sybeha/images/clean/card_top.png) no-repeat 0 0;
 }
 .tab-container:after{
-	background: url(/resources/themes/sybeha/images/clean/card_bot.png) no-repeat 2px 0;
+	background: url(/_resources/themes/sybeha/images/clean/card_bot.png) no-repeat 2px 0;
 }
 .headshot h1{
 	color: #3b3b3b;
@@ -57,10 +57,10 @@ h2{
 	color: #8b8b8b;
 }
 .star1:after, .star2:after, .star3:after, .star4:after, .star5:after{
-	background-image: url(/resources/themes/sybeha/images/clean/stars.png);
+	background-image: url(/_resources/themes/sybeha/images/clean/stars.png);
 }
 .socialBtns li a{
-	background: url(/resources/themes/sybeha/images/clean/social_btns.png) no-repeat;
+	background: url(/_resources/themes/sybeha/images/clean/social_btns.png) no-repeat;
 }
 .download, .tab a {
 	-moz-box-shadow:inset 0px 1px 0px 0px #d3d7d9;
@@ -141,11 +141,11 @@ textarea{
 	color: #dd9292;
 }
 ol.bjqs-markers li a{
-  background: url(/resources/themes/sybeha/images/clean/nav_dots.png) no-repeat 0 0;
+  background: url(/_resources/themes/sybeha/images/clean/nav_dots.png) no-repeat 0 0;
 }
 ol.bjqs-markers li.active-marker a{
-  background: url(/resources/themes/sybeha/images/clean/nav_dots.png) no-repeat -15px 0px;
+  background: url(/_resources/themes/sybeha/images/clean/nav_dots.png) no-repeat -15px 0px;
 }
 .phone:before, .address:before, .postal:before{
-	background: url(/resources/themes/sybeha/images/clean/icon_sprite.png) no-repeat;
+	background: url(/_resources/themes/sybeha/images/clean/icon_sprite.png) no-repeat;
 }

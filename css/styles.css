@@ -13,11 +13,11 @@ html { height: 100%; margin-bottom: 1px; overflow-y: scroll;}
 
 @font-face {
     font-family: 'polyitalic';
-    src: url('/resources/themes/sybeha/webfonts/poly-italic-webfont.eot');
-    src: url('/resources/themes/sybeha/webfonts/poly-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/resources/themes/sybeha/webfonts/poly-italic-webfont.woff') format('woff'),
-         url('/resources/themes/sybeha/webfonts/poly-italic-webfont.ttf') format('truetype'),
-         url('/resources/themes/sybeha/webfonts/poly-italic-webfont.svg#polyitalic') format('svg');
+    src: url('/_resources/themes/sybeha/webfonts/poly-italic-webfont.eot');
+    src: url('/_resources/themes/sybeha/webfonts/poly-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/_resources/themes/sybeha/webfonts/poly-italic-webfont.woff') format('woff'),
+         url('/_resources/themes/sybeha/webfonts/poly-italic-webfont.ttf') format('truetype'),
+         url('/_resources/themes/sybeha/webfonts/poly-italic-webfont.svg#polyitalic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -87,7 +87,7 @@ p{ margin-bottom: 15px;	 }
 .socialBtns li a.youtube{ background-position: -217px 0; }
 .socialBtns li a.flickr{ background-position: -248px 0; }
 .socialBtns li a.email{ background-position: -279px 0; }
-.socialBtns li a.xing{ background-image: url(/resources/themes/sybeha/images/clean/xing.png); }
+.socialBtns li a.xing{ background-image: url(/_resources/themes/sybeha/images/clean/xing.png); }
 
 .download{ margin-top: 25px;  padding: 3px 20px 3px 10px!important; font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif; font-weight: 700; }
 .download img{ padding-right: 5px; position: relative; top: 3px; }

@@ -673,8 +673,8 @@ Licensed under the Creative Commons Attribution 2.5 License - http://creativecom
     a = jQuery;
     c = function() {
         function a() {
-            this.fileLoadingImage = "resources/themes/sybeha/images/loading.gif";
-            this.fileCloseImage = "resources/themes/sybeha/images/close.png";
+            this.fileLoadingImage = "_resources/themes/sybeha/images/loading.gif";
+            this.fileCloseImage = "_resources/themes/sybeha/images/close.png";
             this.resizeDuration = 700;
             this.fadeDuration = 500;
             this.labelImage = "Image";
